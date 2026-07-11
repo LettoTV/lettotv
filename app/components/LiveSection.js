@@ -101,7 +101,7 @@ export default function LiveSection() {
   const twitch =
     status.platforms?.twitch || {
       isLive: false,
-      url: "https://www.twitch.tv/lettotv",
+      url: "https://www.twitch.tv/iettotv",
     };
 
   /*

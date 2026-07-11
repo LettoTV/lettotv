@@ -285,7 +285,7 @@ export default function LiveSection() {
             <a
               href={
                 twitch.url ||
-                "https://www.twitch.tv/lettotv"
+                "https://www.twitch.tv/iettotv"
               }
               target="_blank"
               rel="noopener noreferrer"
